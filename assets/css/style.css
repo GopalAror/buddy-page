@@ -115,6 +115,16 @@ line-height: 136%;
 text-decoration-line: line-through;
 opacity: 0.5;
 }
+.p8{
+    max-width: 388px;
+    color: #FFF;
+font-family: Poppins;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; 
+opacity: 0.6;
+}
 .p6{
     color:var(--fs-c1);
 font-family: var(--fs-f2);
